@@ -20,3 +20,5 @@ mine
 
 [+] Info:- run this command to start the crafty service- 'sudo systemctl start crafty.service' 
 
+
+playit
